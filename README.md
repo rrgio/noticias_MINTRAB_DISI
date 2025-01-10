@@ -27,6 +27,8 @@ Las noticias se almacenan en formato JSON, siguiendo la estructura que se detall
     "date": "Fecha de publicación en formato DD-MM-YYYY"
   }
 ]
+
+
 Cada noticia incluye:
 
 ID: Un identificador único para cada noticia.
