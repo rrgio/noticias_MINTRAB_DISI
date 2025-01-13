@@ -10,7 +10,7 @@ Las noticias son almacenadas en formato JSON 📄, lo que facilita su integraci�
 
 ## 👨‍💻 Proyecto Desarrollado
 
-El proyecto del sitio web fue desarrollado por **Ronal Giovanni Recinos Cortez**, como parte de mi apoyo con la **Dirección de Sistemas del Ministerio de Trabajo y Previsión Social de Guatemala**. Todo el desarrollo, mantenimiento, y actualización de este repositorio es realizado de manera exclusiva por mi persona, garantizando la calidad y la integridad de la información aquí almacenada.
+El proyecto del sitio web fue desarrollado por **Alejandro Gómez**, como parte de mi apoyo con la **Dirección de Sistemas del Ministerio de Trabajo y Previsión Social de Guatemala**. Todo el desarrollo, mantenimiento, y actualización de este repositorio es realizado de manera exclusiva por mi persona, garantizando la calidad y la integridad de la información aquí almacenada.
 
 Este repositorio es un esfuerzo continuo para apoyar los objetivos del Ministerio de promover la transparencia y asegurar que la información clave esté disponible de manera oportuna y precisa.
 
