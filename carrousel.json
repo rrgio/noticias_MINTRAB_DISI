@@ -1,9 +1,5 @@
 [
   {
-    "image": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/agendacultural.webp",
-   "link": ""
-  },
-  {
     "image": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/PlanRetornoalHogar.jpg",
    "link": "https://guatemala.gob.gt/plan-retorno-al-hogar/"
   },
@@ -23,9 +19,4 @@
     "image": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/politica-min.webp",
     "link": "https://portal.segeplan.gob.gt/segeplan/wp-content/uploads/2024/04/PGG-2024-2028.pdf"
   },
-  {
-    "image": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/casacontenta.webp",
-    "link": ""
-  }
-
 ]
