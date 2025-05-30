@@ -2,11 +2,10 @@
     {  
     "id": "Guatemala-y-Costa-Rica-fortalecen-la-migración-laboral",
     "title": "Juramentan a Comisión Nacional de Salario.",
-    "imageUrl": 
-        [{
-            "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Comunicado Comision Nacional del Salario 2025_1.jpg",
-             "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Comunicado Comision Nacional del Salario 2025_2.jpg"
-        }],
+    "imageUrl": [
+        "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Comunicado Comision Nacional del Salario 2025_1.jpg",
+        "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Comunicado Comision Nacional del Salario 2025_2.jpg"
+    ],
     "date": "27/05/2025"
   }
 ]
