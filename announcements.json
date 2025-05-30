@@ -1,14 +1,12 @@
 [
     {  
     "id": "Guatemala-y-Costa-Rica-fortalecen-la-migración-laboral",
-    "title": "Guatemala y Costa Rica fortalecen la migración laboral.",
-    "imageUrl": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/oim_y_guatemala.webp",
-    "date": "23/05/2025"
-  },
-  {
-    "id": "guatemala-reafirma-su-compromiso-con-el-trabajo-decente-y-la-integración-regional",
-    "title": "Guatemala y Costa Rica fortalecen la migración laboral.",
-    "imageUrl": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/image.png",
-    "date": "15/05/2025"
+    "title": "Juramentan a Comisión Nacional de Salario.",
+    "imageUrl": 
+        [{
+            "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Comunicado Comision Nacional del Salario 2025_1.jpg",
+             "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Comunicado Comision Nacional del Salario 2025_2.jpg"
+        }],
+    "date": "27/05/2025"
   }
 ]
