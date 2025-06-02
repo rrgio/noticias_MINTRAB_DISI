@@ -1,89 +1,12 @@
 [
-    {  
+  {  
     "id": "juramentan-a-comision-nacional-de-salario",
     "title": "Juramentan a Comisión Nacional de Salario.",
     "imageUrl": [
-        "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Comunicado Comision Nacional del Salario 2025_1.jpg",
-        "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Comunicado Comision Nacional del Salario 2025_2.jpg"
+      "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Comunicado Comision Nacional del Salario 2025_1.jpg",
+      "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Comunicado Comision Nacional del Salario 2025_2.jpg"
     ],
-    "content": "<div style="font-family: Arial, sans-serif; padding: 20px; color: #000;">
-    <h1 style="color: #1a237e;"><strong>Comunicado</strong></h1>
-    <h2 style="color: #0d47a1;">Juramentan a Comisión Nacional del Salario</h2>
-
-    <p><strong>Guatemala, 27 de mayo de 2024.</strong> Autoridades del Ministerio de Trabajo y Previsión Social llevaron a cabo la juramentación de la Comisión Nacional del Salario para el período 2025-2027, los cuales fueron nombrados por medio del Acuerdo Gubernativo número 5-2025, publicado en el Diario Oficial.</p>
-
-    <p>La Comisión Nacional del Salario es un ente asesor, conformado por representantes del Gobierno, trabajadores y empleadores, y está adscrita al Ministerio de Trabajo y Previsión Social. Su tarea principal es armonizar los salarios mínimos que regirán en Guatemala cada año.</p>
-
-    <p>La Comisión Nacional del Salario queda integrada de la siguiente manera:</p>
-
-    <p><strong>PRESIDENTE:</strong> El jefe del Consejo Técnico y Asesoría Jurídica del Ministerio de Trabajo y Previsión Social.</p>
-
-    <p><strong>REPRESENTANTES GUBERNAMENTALES:</strong></p>
-    <ul>
-        <li><strong>TITULARES:</strong>
-            <ul>
-                <li>Viceministro de Previsión Social y Empleo</li>
-                <li>Viceministro de Administración de Trabajo</li>
-            </ul>
-        </li>
-        <li><strong>II. SUPLENTES:</strong>
-            <ul>
-                <li>Director de Estadísticas Laborales</li>
-                <li>Director de Fomento a la Legalidad Laboral</li>
-            </ul>
-        </li>
-    </ul>
-
-    <p><strong>REPRESENTANTES DE LAS ENTIDADES SINDICALES DE TRABAJADORES:</strong></p>
-    <ul>
-        <li><strong>TITULARES:</strong>
-            <ul>
-                <li>Luis Antulio Alpiréz Guzmán</li>
-                <li>Franky Armando Pozuelos Molina</li>
-            </ul>
-        </li>
-        <li><strong>II. SUPLENTES:</strong>
-            <ul>
-                <li>Angel Rafael Segura García</li>
-                <li>Adolfo Lacs Palomo</li>
-            </ul>
-        </li>
-    </ul>
-
-    <p><strong>REPRESENTANTES DE LAS ENTIDADES GREMIALES Y SINDICATOS PATRONALES:</strong></p>
-    <ul>
-        <li><strong>TITULARES:</strong>
-            <ul>
-                <li>George Frederick Lewis Ockelmann</li>
-                <li>José Alejandro Ceballos Chacón</li>
-            </ul>
-        </li>
-        <li><strong>II. SUPLENTES:</strong>
-            <ul>
-                <li>Guido Domenico Ricci Muadi</li>
-                <li>Charles Dennis Bland Crespo</li>
-            </ul>
-        </li>
-    </ul>
-
-    <p><strong>REPRESENTANTES DEL MINISTERIO DE ECONOMÍA:</strong></p>
-    <ul>
-        <li><strong>TITULAR:</strong> Sara María Fernanda Larios Hernández</li>
-        <li><strong>II. SUPLENTE:</strong> Elizabeth Ugalde Miranda</li>
-    </ul>
-
-    <p><strong>REPRESENTANTES DE LA JUNTA MONETARIA:</strong></p>
-    <ul>
-        <li><strong>TITULAR:</strong> Carlos Ricardo Figueroa Aguilar</li>
-        <li><strong>II. SUPLENTE:</strong> José Nery Castillo Hernández</li>
-    </ul>
-
-    <p><strong>REPRESENTANTES DEL INSTITUTO GUATEMALTECO DE SEGURIDAD SOCIAL:</strong></p>
-    <ul>
-        <li><strong>TITULAR:</strong> Edwin Rolando García Caal</li>
-        <li><strong>II. SUPLENTE:</strong> Juan Carlos Ramírez Villatoro</li>
-    </ul>
-</div>", 
+    "content": "<div style=\"font-family: Arial, sans-serif; padding: 20px; color: #000;\">\n<h1 style=\"color: #1a237e;\"><strong>Comunicado</strong></h1>\n<h2 style=\"color: #0d47a1;\">Juramentan a Comisión Nacional del Salario</h2>\n\n<p><strong>Guatemala, 27 de mayo de 2024.</strong> Autoridades del Ministerio de Trabajo y Previsión Social llevaron a cabo la juramentación de la Comisión Nacional del Salario para el período[...]\n\n<p>La Comisión Nacional del Salario es un ente asesor, conformado por representantes del Gobierno, trabajadores y empleadores, y está adscrita al Ministerio de Trabajo y Previsión Social. Su ta[...]\n\n<p>La Comisión Nacional del Salario queda integrada de la siguiente manera:</p>\n\n<p><strong>PRESIDENTE:</strong> El jefe del Consejo Técnico y Asesoría Jurídica del Ministerio de Trabajo y Previsión Social.</p>\n\n<p><strong>REPRESENTANTES GUBERNAMENTALES:</strong></p>\n<ul>\n<li><strong>TITULARES:</strong>\n<ul>\n<li>Viceministro de Previsión Social y Empleo</li>\n<li>Viceministro de Administración de Trabajo</li>\n</ul>\n</li>\n<li><strong>II. SUPLENTES:</strong>\n<ul>\n<li>Director de Estadísticas Laborales</li>\n<li>Director de Fomento a la Legalidad Laboral</li>\n</ul>\n</li>\n</ul>\n\n<p><strong>REPRESENTANTES DE LAS ENTIDADES SINDICALES DE TRABAJADORES:</strong></p>\n<ul>\n<li><strong>TITULARES:</strong>\n<ul>\n<li>Luis Antulio Alpiréz Guzmán</li>\n<li>Franky Armando Pozuelos Molina</li>\n</ul>\n</li>\n<li><strong>II. SUPLENTES:</strong>\n<ul>\n<li>Angel Rafael Segura García</li>\n<li>Adolfo Lacs Palomo</li>\n</ul>\n</li>\n</ul>\n\n<p><strong>REPRESENTANTES DE LAS ENTIDADES GREMIALES Y SINDICATOS PATRONALES:</strong></p>\n<ul>\n<li><strong>TITULARES:</strong>\n<ul>\n<li>George Frederick Lewis Ockelmann</li>\n<li>José Alejandro Ceballos Chacón</li>\n</ul>\n</li>\n<li><strong>II. SUPLENTES:</strong>\n<ul>\n<li>Guido Domenico Ricci Muadi</li>\n<li>Charles Dennis Bland Crespo</li>\n</ul>\n</li>\n</ul>\n\n<p><strong>REPRESENTANTES DEL MINISTERIO DE ECONOMÍA:</strong></p>\n<ul>\n<li><strong>TITULAR:</strong> Sara María Fernanda Larios Hernández</li>\n<li><strong>II. SUPLENTE:</strong> Elizabeth Ugalde Miranda</li>\n</ul>\n\n<p><strong>REPRESENTANTES DE LA JUNTA MONETARIA:</strong></p>\n<ul>\n<li><strong>TITULAR:</strong> Carlos Ricardo Figueroa Aguilar</li>\n<li><strong>II. SUPLENTE:</strong> José Nery Castillo Hernández</li>\n</ul>\n\n<p><strong>REPRESENTANTES DEL INSTITUTO GUATEMALTECO DE SEGURIDAD SOCIAL:</strong></p>\n<ul>\n<li><strong>TITULAR:</strong> Edwin Rolando García Caal</li>\n<li><strong>II. SUPLENTE:</strong> Juan Carlos Ramírez Villatoro</li>\n</ul>\n</div>",
     "date": "27/05/2025"
   }
 ]
