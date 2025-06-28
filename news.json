@@ -171,10 +171,7 @@
   {
     "id": "campana-migracion-regular",
     "title": "MINTRAB participa en la Campaña para Promover la Migración Regular",
-    "images": [
-          "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/migracion.webp",
-          "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/sso.webp"
-    ]
+    "imageUrl": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/migracion.webp",
     "content": "<p>El Ministerio de Trabajo y Previsión Social (MINTRAB) se ha sumado a la iniciativa <strong>Que el Sueño de Migrar no se Convierta en Pesadilla</strong>, una campaña interinstitucional cuyo objetivo es prevenir la migración irregular y promover la migración regular a través de programas gubernamentales. El proyecto, que reúne a 16 instituciones del Consejo de Atención y Protección (CAP), busca enfrentar los riesgos asociados a la migración irregular y generar soluciones sostenibles.</p><p>Durante el evento de lanzamiento, la vicepresidenta de la República, Karin Herrera, destacó la importancia de crear condiciones atractivas en el país para evitar la migración ilegal. Asimismo, se promoverá una cultura de denuncia frente a las violaciones de derechos humanos hacia los migrantes, con mensajes traducidos en idiomas como mam, kaqchikel, q’eqchi’ y q’anjob’al.</p><p>El MINTRAB, junto a otras instituciones como los ministerios de Educación, Salud, Gobernación, Relaciones Exteriores y Economía, participará activamente en la implementación de programas que fortalezcan las oportunidades de empleo digno, lo cual es clave para mitigar las causas de la migración irregular.</p>",
     "date": "25/10/2024"
   }
