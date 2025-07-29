@@ -1,5 +1,29 @@
 [
    {
+  "id": "mintrab-feria-nacional-empleo-2025",
+  "title": "Mintrab invita a las empresas a participar en la segunda Feria Nacional de Empleo 2025",
+  "images": [
+       {
+         "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/F1.jpeg",
+         "caption": ""
+       },
+       {
+         "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/F2.jpeg",
+         "caption": ""
+       },
+       {
+         "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/F3.jpeg",
+         "caption": ""
+       },
+       {
+         "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/F4.jpeg",
+         "caption": ""
+       }
+     ], 
+  "content": "<p><strong>El Ministerio de Trabajo y Previsión Social (Mintrab)</strong>, en su firme compromiso con los principios establecidos en la <strong>Política Nacional de Empleo Digno</strong> y en la <strong>Política General de Gobierno</strong>, que se orientan en construir el país justo, inclusivo y próspero que todos anhelamos, lidera las acciones para facilitar las condiciones de la empleabilidad.</p><p>En ese sentido, la <strong>Dirección General de Empleo</strong>, por medio del <strong>Servicio Nacional de Empleo</strong>, anunció ante los representantes del sector empresarial la <strong>Segunda Feria Nacional de Empleo del año 2025</strong>, que se llevará a cabo <strong>del 20 al 29 de agosto en los departamentos, y el 3 y 4 de septiembre en la ciudad capital</strong>.</p><p>La <strong>segunda Feria Nacional de Empleo</strong> es una iniciativa orientada a generar mayores oportunidades de empleo para el pueblo digno y se encamina a fortalecer las capacidades de empleabilidad de la población guatemalteca, mediante programas que fomentan la vinculación efectiva al mundo del trabajo.</p><p>En la actividad se tuvo la <strong>participación de 140 empresas</strong> que se encuentran interesadas en participar en la feria, para ofrecer sus plazas vacantes. Actualmente, la feria se encuentra en la fase de convocatoria a las empresas en todo el país, para que se sumen a este esfuerzo colectivo.</p><p>Las empresas interesadas en participar pueden comunicarse al <strong>teléfono 2422-2500, extensión 1012</strong> o a los correos electrónicos: <a href=\"mailto:intermediaciondge03@mintrabajo.gob.gt\">intermediaciondge03@mintrabajo.gob.gt</a> y <a href=\"mailto:intermediaciondge04@mintrabajo.gob.gt\">intermediaciondge04@mintrabajo.gob.gt</a></p>",
+  "date": "29/07/2025"
+},
+   {
      "id": "igt-realiza-inspecciones-bono14",
      "title": "IGT realiza más de mil inspecciones de centros de trabajo en primeros días.",
      "images": [
