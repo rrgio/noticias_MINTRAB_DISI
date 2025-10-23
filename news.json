@@ -1,5 +1,29 @@
 [
    {
+     "id": "informe-empleador-2024-mintrab",
+     "title": "Informe del Empleador 2024 evidencia departamentos con mayor concentración empresarial, salarios promedio y brecha de empleabilidad entre mujeres y hombres",
+     "images": [
+        {
+         "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/IE 1.jpeg",
+         "caption": ""
+          }, 
+        {
+         "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/IE 2.jpeg",
+         "caption": ""
+          }, 
+         {
+         "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/IE 3.jpeg",
+         "caption": ""
+          }, 
+         {
+         "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/IE.jpeg",
+         "caption": ""
+          }
+     ],
+     "content": "<p><strong>El Ministerio de Trabajo y Previsión Social (MINTRAB)</strong> presentó el <strong>Informe del Empleador 2024</strong>, un análisis estadístico que refleja la situación laboral en Guatemala.</p><p>Entre los datos que presenta, se detalla la existencia de <strong>1 millón 674 mil 563 trabajadores formales (67.9% hombres y 32.1% mujeres)</strong>, quienes laboran en <strong>69 mil 132 centros de trabajo</strong> pertenecientes a <strong>33 mil 817 empleadores</strong> que presentaron el informe; además, se evidencia que uno de cada cuatro trabajadores está en el sector comercio.</p><p>El informe fue elaborado con base en los reportes que los empleadores trasladan al MINTRAB, conforme a lo estipulado en el <strong>Artículo 61 del Código de Trabajo</strong> y los <strong>Decretos 29-89 y 65-89</strong>. La recopilación de esta información también muestra que seis de cada diez empresas están concentradas en el departamento de <strong>Guatemala</strong>; asimismo, <strong>Quetzaltenango, Sacatepéquez y Escuintla</strong> encabezan el listado, mientras que <strong>Baja Verapaz</strong> registra la menor cantidad de establecimientos (<strong>0.3%</strong>).</p><p>La mayoría corresponde a <strong>micro y pequeñas empresas</strong>, tanto por volumen de ingresos como por número de trabajadores, de acuerdo con la clasificación establecida en el <strong>Acuerdo Gubernativo 211-2015</strong>. De igual manera, se presentan datos sobre las características de los trabajadores formales, incluyendo actividad económica, edad, sexo, nivel educativo, pueblo de pertenencia y salarios base mensuales promedio por ocupación y sector.</p><p>En sectores como <strong>exportación, maquila y zonas francas</strong>, se identifican las empresas y trabajadores registrados bajo los regímenes de fomento económico contemplados en los decretos mencionados.</p><p>Con esta información, el <strong>Ministerio de Trabajo</strong> aporta una herramienta de referencia para el <strong>sector productivo y las inversiones</strong>, a la vez que refuerza su compromiso con la transparencia, la formalización laboral y el fortalecimiento de políticas públicas basadas en evidencia, contribuyendo a una visión más completa del <strong>mercado de trabajo en Guatemala</strong>.</p><p><a href=\"https://www.mintrabajo.gob.gt/doc/Estadistica/InformedelEmpleador/2024/Informe%20Empleadores%20y%20Empleados%202024%20VF%20-%20impresion.pdf\" target=\"_blank\"><strong>Consulte el informe aquí</strong></a></p>",
+     "date": "23/10/2025"
+   },
+   {
      "id": "acuerdo-oit-simel-gt-2025",
      "title": "Mintrab firma acuerdo con OIT para viabilizar la creación del Sistema de Información del Mercado Laboral",
      "images": [
