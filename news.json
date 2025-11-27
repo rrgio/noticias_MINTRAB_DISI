@@ -1,4 +1,24 @@
 [
+  {
+  "id": "feria-empleo-migrantes-chiquimula-2025",
+  "title": "Feria de Empleo para migrantes retornados en Chiquimula",
+  "images": [
+    {
+       "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/FR%20(1).jpeg",
+      "caption": ""
+    },
+    {
+       "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/FR%20(2).jpeg",
+      "caption": ""
+    },
+    {
+      "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/FR%20(3).jpeg",
+      "caption": ""
+    }
+  ],
+  "content": "<p><strong>Chiquimula, noviembre de 2025.</strong> Con éxito se realizó la Feria de Empleo organizada por el <strong>Ministerio de Trabajo y Previsión Social #MINTRAB</strong>, dirigida a personas migrantes retornadas, donde más de <strong>100 personas tuvieron la oportunidad de entrevistarse con 12 empresas</strong> que ofrecieron más de <strong>300 oportunidades laborales.</strong></p><p>El evento contó con el apoyo y coordinación del <strong>Ministerio de Educación, Organización Internacional para las Migraciones en Guatemala (OIM) e Instituto Técnico de Capacitación y Productividad (Intecap).</strong></p><p>Personal del <strong>#MINTRAB</strong> ofreció atención y orientación a los connacionales retornados en temas como: entrevistas efectivas y elaboración de CV atractivos. Además, de programas y servicios públicos de empleo como: trabajo temporal en el extranjero, Escuelas Taller y la plataforma electrónica <strong>#OportuGuate.</strong></p><p>Desde el <strong>#MINTRAB</strong> reafirmamos nuestro compromiso con acercar las oportunidades de empleo a las localidades.</p>",
+  "date": "12/11/2025"
+},
 {
   "id": "beneficio-pam-ixcan-2025",
   "title": "Personas mayores de Ixcán reciben beneficio del PAM después de 16 años de exclusión",
