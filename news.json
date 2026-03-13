@@ -1,5 +1,29 @@
 [
    {
+     "id": "reconocimiento-entidad-amiga-lactancia-materna-ministerio-gobernacion",
+     "title": "Reconocemos el compromiso con la Lactancia Materna",
+     "images": [
+       {
+         "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Lactancia%20(3).jpg",
+         "caption": ""
+       },
+       {
+         "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Lactancia%20(2).jpg",
+         "caption": ""
+       },
+       {
+         "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Lactancia%20(1).jpg",
+         "caption": ""
+       },
+       {
+         "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Lactancia%20(4).jpg",
+         "caption": ""
+       }
+     ],
+     "content": "<p><strong>El Ministerio de Trabajo y Previsión Social</strong> a través de la Sección de Mujer Trabajadora reconoció al Ministerio de Gobernación como <strong>“Entidad Amiga de la Lactancia Materna”</strong>, por implementar la sala de Lactancia Materna en la sede central de la zona 1 capitalina.</p><p>Desde la Cartera Laboral promovemos que las mujeres cuenten con espacios físicos dignos, limpios y seguros para la extracción de leche materna y conservarla de manera apropiada en sus centros de trabajo.</p><p>Actualmente existen 44 instituciones, 12 públicas y 32 privadas que se han unido al programa creando espacios físicos para la extracción de leche materna.</p><p>¡MINTRAB felicita a la cartera del interior por su compromiso y ejemplo en la protección de la lactancia materna!</p><p><strong>#MintrabAvanza #UtzSamaj #AlPuebloDignoSeLeResponde</strong></p>",
+     "date": "12/03/2026"
+   },
+   {
      "id": "juramentacion-comisiones-paritarias-salario-minimo-2026",
      "title": "Integración de las Comisiones Paritarias de Salario Mínimo",
      "images": [
