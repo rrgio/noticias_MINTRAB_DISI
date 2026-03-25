@@ -1,21 +1,29 @@
 [
    {
      "id": "ministra-gira-trabajo-amatitlan-19032026",
-     "title": "Ministra realiza gira de trabajo en Amatitlán",
+     "title": "Ministra realiza gira de trabajo en Amatitlán", 
      "images": [
-       {
-         "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Gira%202%20(1).jpg",
-         "caption": ""
-       },
-       {
-         "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Gira%202%20(2).jpg",
-         "caption": ""
-       },
-       {
-         "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Gira%202%20(3).jpg",
-         "caption": ""
-       }
-     ],
+          {
+            "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Gira%2021.jpeg",
+            "caption": ""
+          },
+          {
+            "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Gira%2022.jpg",
+            "caption": ""
+          },
+          {
+            "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Gira%2023.jpeg",
+            "caption": ""
+          },
+          {
+            "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Gira%2024.jpg",
+            "caption": ""
+          },
+          {
+            "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Gira%2025.jpg",
+            "caption": ""
+          }
+      ],
      "content": "<p><strong>Guatemala.</strong> Como parte de una gira de trabajo, la ministra de Trabajo, Miriam Catarina Roquel Chávez, recientemente verificó y supervisó las condiciones del Centro Recreativo Las Ninfas, el Centro Vacacional El Filón, el Museo y Centro Cultural del Ministerio de Trabajo y Previsión Social y por último la Contraestación del Teleférico.</p><p>Durante la visita constató los avances y las necesidades para seguir garantizando espacios óptimos.</p><p>La cartera laboral sigue dotando de insumos a los centros, así como realizando mejoras en áreas sociales, búngalos y jardinería con el propósito de seguir fortaleciendo estos espacios confortables y de recreación para las personas trabajadoras del Estado y sus familias.</p><p>Los cambios son visibles y se plasman en el servicio de calidad que se brinda a las personas trabajadoras y jubiladas del Estado que disfrutan de nuestros centros.</p><p>Desde el Ministerio de Trabajo y Previsión Social promovemos el derecho a la recreación de conformidad a lo regulado en el Decreto 81-70 “Ley de Creación y Funcionamiento de los Centros de Recreación de los Trabajadores del Estado”.</p>",
      "date": "19/03/2026"
    },
