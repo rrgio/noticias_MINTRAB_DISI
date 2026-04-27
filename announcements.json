@@ -1,6 +1,16 @@
 [
   {
     "id": "mintrab-anuncia-primera-feria-nacional-empleo-2026",
+    "title": "El Ministerio de Trabajo y Previsión Social ante información que circula sobre el portal Tu Empleo informa",
+    "imageUrl": [
+        "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Comunicado Tu Empleo_page-0001.jpg"
+    ],
+    "content": "<p>Ingenieros de la Dirección de Sistemas de Información están investigando el incidente y tomarán las medidas necesarias para garantizar la seguridad de la plataforma y la información de los usuarios.</p><p>Tu Empleo es una plataforma de intermediación laboral que conecta a empresas con personas buscadoras de empleo. A través de esta plataforma, las empresas publican sus vacantes y los usuarios pueden aplicar a las oportunidades que se ajusten a su perfil.</p><p>Desde el Ministerio de Trabajo y Previsión Social mantendremos a nuestros usuarios informados sobre el progreso de la investigación y las medidas que se están tomando. Estamos comprometidos a proteger la información de nuestros usuarios y a tomar todas las medidas necesarias para prevenir incidentes de seguridad en el futuro.</p>"
+    "date": "26/04/2026",
+    "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Comunicado Tu Empleo.pdf"
+  },
+  {
+    "id": "mintrab-anuncia-primera-feria-nacional-empleo-2026",
     "title": "MINTRAB anuncia la primera Feria Nacional de Empleo 2026 con 16 mil 500 plazas de trabajo",
     "imageUrl": [
         "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/COMUNICADO_feriaemplo.jpg"
