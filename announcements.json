@@ -1,4 +1,14 @@
 [
+      {
+    "id": "actualizacion-comunicado-incidente-seguridad-tu-empleo",
+    "title": "Actualización sobre el incidente reportado en la plataforma Tu Empleo del Ministerio de Trabajo y Previsión Social",
+    "imageUrl": [
+        "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Comnicado 2.jpg"
+    ],
+    "content": "<p>Guatemala. El Ministerio de Trabajo y Previsión Social informa que, tras la investigación realizada por nuestros equipos técnicos, se confirma que el ataque fue dirigido al software que gestiona la plataforma Tu Empleo.</p><p>Desde el inicio de la gestión 2024-2028 se establecieron prioridades en materia informática, derivadas de un análisis interno de los sistemas existentes. En ese contexto, se inició un proceso de actualización y mitigación progresiva de la seguridad de los sistemas informáticos, con el objetivo de reducir brechas de seguridad, simplificar trámites y mejorar los servicios brindados a la población.</p><p>El incidente de seguridad informática se produjo el domingo 26 de abril y, para realizar las investigaciones correspondientes, se dio de baja temporalmente la plataforma. Se detectó que la brecha de seguridad se debió a que la plataforma utilizaba un código de programación API antiguo, el cual ya fue mitigado. Tras la verificación respectiva, el sistema fue restablecido con las medidas de seguridad necesarias, lo que permitió su restauración exitosa.</p><p>Desde la Dirección de Sistemas de Información se han tomado medidas para cerrar la brecha de seguridad, subsanar la vulnerabilidad identificada y ejecutar las acciones de mitigación necesarias para salvaguardar la integridad de la información institucional. Nuestros equipos continúan revisando todos los sistemas para prevenir futuros incidentes informáticos.</p><p>El Ministerio de Trabajo y Previsión Social mantiene su compromiso de seguir ejecutando acciones para salvaguardar la información de las personas buscadoras de empleo y los datos de cualquier otro servicio, con el fin de prevenir incidentes de seguridad.</p><p>Guatemala, 27 de abril de 2026.</p>",
+    "date": "27/04/2026",
+    "url": "https://raw.githubusercontent.com/rrgio/noticias_MINTRAB_DISI/main/assets/Comunicado Incidente Tu Empleo MINTRAB 27Abril.pdf"
+  },
   {
     "id": "comunicado-incidente-seguridad-tu-empleo",
     "title": "El Ministerio de Trabajo y Previsión Social ante información que circula sobre el portal Tu Empleo informa",
